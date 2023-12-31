@@ -1,4 +1,4 @@
-const ChatPage = () => {
+const ChatsPage = () => {
     return <>chats...</>
 }
 
